@@ -1,0 +1,17 @@
+APP_ENV=local
+APP_KEY=base64:V8qTH7K5Y7NvrcoRCVpTCVOJu9eDE4Sp0Y/TVCbA5AI=
+APP_DEBUG=true
+
+#DB_CONNECTION=mysql
+#DB_HOST=azure-devops-trial-145-server.mysql.database.azure.com
+#DB_PORT=3306
+#DB_DATABASE=azure-devops-trial-145-database
+#DB_USERNAME=vqigpetaas
+#DB_PASSWORD=75B50A6P2A318735$
+
+DB_CONNECTION=mysql
+DB_HOST=localhost
+DB_PORT=3306
+DB_DATABASE=industrial_court
+DB_USERNAME=dev
+DB_PASSWORD=oFehYwIVZNUplVlq
